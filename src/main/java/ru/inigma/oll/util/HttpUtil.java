@@ -10,7 +10,7 @@ import java.io.IOException;
 public class HttpUtil {
     public static int requestKey() throws IOException {
         //CloseableHttpClient client = HttpClients.createDefault();
-        //HttpPost post = new HttpPost("");
+        //HttpPost post = new HttpPost("Url");
         // some params here...
 
         //HttpResponse response = client.execute(post);
